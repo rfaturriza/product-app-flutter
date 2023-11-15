@@ -4,9 +4,9 @@ Test BRIK is a Flutter project for testing at BRIK company
 
 ## Screenshots
 
-| List Product                                                                    | Search Product                                                            | Add New Product                                                                |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/list_product.png | https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/search.png | https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/add_product.png |
+| List Product                                                                              | Search Product                                                                      | Add New Product                                                                          |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| ![image](https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/list_product.png) | ![image](https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/search.png) | ![image](https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/add_product.png) |
 
 ## Tech
 
