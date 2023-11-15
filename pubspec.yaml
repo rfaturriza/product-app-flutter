@@ -41,6 +41,8 @@ dev_dependencies:
   injectable_generator:
   freezed: ^2.4.0
   json_serializable: ^6.7.1
+  mocktail: ^1.0.1
+  http_mock_adapter: ^0.6.0
 flutter:
   uses-material-design: true
 
@@ -67,4 +69,3 @@ flutter:
         - asset: assets/fonts/Lato/Lato-LightItalic.ttf
           weight: 300
           style: italic
-
