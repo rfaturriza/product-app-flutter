@@ -1,6 +1,6 @@
 # Product List App Flutter
 
-Test BRIK is a Flutter project for testing at BRIK company
+Product List App is a Flutter project with api from https://dummyjson.com
 
 ## Screenshots
 
@@ -59,4 +59,4 @@ To run this Flutter project on your local machine, follow these steps:
 If you have any questions or suggestions regarding the project, feel free to reach out to us:
 
 Email: rfaturriza@gmail.com
-We appreciate your interest in contributing to the Test BRIK project!
+We appreciate your interest in contributing to this project!
