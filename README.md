@@ -1,4 +1,4 @@
-# Test BRIK
+# Product List App Flutter
 
 Test BRIK is a Flutter project for testing at BRIK company
 
@@ -6,7 +6,7 @@ Test BRIK is a Flutter project for testing at BRIK company
 
 | List Product                                                                              | Search Product                                                                      | Add New Product                                                                          |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| ![image](https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/list_product.png) | ![image](https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/search.png) | ![image](https://raw.githubusercontent.com/rfaturriza/test_brik/main/ss/add_product.png) |
+| ![image](https://raw.githubusercontent.com/rfaturriza/product-app-flutter/main/ss/list_product.png) | ![image](https://raw.githubusercontent.com/rfaturriza/product-app-flutter/main/ss/search.png) | ![image](https://raw.githubusercontent.com/rfaturriza/product-app-flutter/main/ss/add_product.png) |
 
 ## Tech
 
@@ -30,12 +30,12 @@ To run this Flutter project on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/rfaturriza/test_brik.git
+   git clone https://github.com/rfaturriza/product-app-flutter.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd test_brik
+   cd product-app-flutter
 
 3. **Install dependencies:**
 
@@ -46,7 +46,7 @@ To run this Flutter project on your local machine, follow these steps:
 
     ```bash
     make build
-    make generate
+    make locale
 
 4. **Run the application:**
 
